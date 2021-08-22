@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lilian-Chinelo
 - 👀 I’m interested in web dev and software development
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects 
+- 💞️ I’m looking to collaborate on open source projects and open to junior dev roles/opportunities
 - 📫 How to reach me - best by email, available on my profile.
 
 <!---
