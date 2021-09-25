@@ -1,4 +1,5 @@
-![My Avatar](https://user-images.githubusercontent.com/73794416/134768835-44888839-028e-4373-80e5-bcafb5593bc1.jpg)
+![avatercropped](https://user-images.githubusercontent.com/73794416/134772232-bcb395c7-55e4-4ace-be31-8de5a9f493b2.jpeg)
+
 
 - 👋 Hi, I’m Lilian, a Full-Stack Developer passionate about solving real life problems with code. My background is in food security and Agriculture (I know right?), but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰).
 
