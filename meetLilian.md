@@ -1,0 +1,25 @@
+![My Avatar](https://user-images.githubusercontent.com/73794416/134768835-44888839-028e-4373-80e5-bcafb5593bc1.jpg)
+
+- 👋 Hi, I’m Lilian, a Full-Stack Developer passionate about solving real life problems with code. My background is in food security and Agriculture (I know right?), but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰).
+
+
+- 👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on open source projects and open to new job positions/opportunities
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | Python 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Postman API 
+- 
+- 📫 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/lilian-umeakunne-msc-276b11129/) 👨🏻‍💻
+ - Write Me an [Email](mailto:Lilianumeakunne@gmail.com) 💌
+
+<!---
+Lilian-Chinelo/Lilian-Chinelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
