@@ -13,7 +13,7 @@
 - 💻 &nbsp; Javascript | Python 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Firebase | NextJs
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API 
+- 🔧 &nbsp; Git | Postman API | MailChimp 
 - 
 - 📫 Connect with Me
 
