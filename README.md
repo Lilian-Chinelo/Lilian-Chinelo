@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
-- 🌱 I’m currently learning C# and Go.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on open source projects and open to new job positions/opportunities
 
 <h3>🛠 Tech Stack</h3>
