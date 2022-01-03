@@ -14,7 +14,6 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS | Firebase | NextJs
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman API | MailChimp 
-- 
 - 📫 Connect with Me:
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/lilian-umeakunne-msc-276b11129/) 👨🏻‍💻
