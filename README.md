@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
 - 🌱 I’m currently learning C# and Redux and taking part in the 100 Days of Python Challenge💪.
-- 💞️ I’m looking to collaborate on open source projects, network with likeminds and ultimately form meaningful friendships.
+- 💞️ I’m looking to collaborate on open source projects, network with like-minds and ultimately form meaningful friendships.
 
 <h3>🛠 Tech Stack</h3>
 
